@@ -188,7 +188,7 @@ az login --use-device-code
 
 ---
 
-### Task 4: Deploy Resources
+### Task 4: Deploy Resources (SKIP in this session)
 
 In this step, you create the resources that will be used throughout the day.
 
@@ -280,7 +280,7 @@ As mentioned in [Context and Background](#-context-and-background), there are se
 ```
 ---
 
-### Task 8: Assign additional permissions
+### Task 8: Assign additional permissions (SKIP in this session)
 
 To perform certain tasks in the hackathon, you need the following permissions:
 
